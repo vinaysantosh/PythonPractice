@@ -1,0 +1,16 @@
+# nested if else:
+    if condition1:
+        if condition2:
+            block1
+        elif condtion3:
+            block2
+        else:
+            block3
+    else:
+        block4
+
+# convert from one type to other
+
+number1 = num(stringvar) -> converts the variable of type string to number
+stringvar = str(numvar)  -> converts the variable of type number to stringvar
+
